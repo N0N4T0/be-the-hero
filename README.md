@@ -31,6 +31,10 @@
 > 3.2) Donwload do app "EXPO" na App Store
 > 3.3) Abrir a câmara e posicioná-la no QR Code
 
+###
+>Rotas Insomnia
+[![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Be-the-hero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2FN0N4T0%2Fbe-the-hero%2Fmaster%2Fexport.json)
+
 ######
 > API Utilizada: [https://fixer.io/](https://fixer.io/)
 > **Desenvolvedor**: Lúcio Nonato Silva de Oliveira
